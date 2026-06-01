@@ -1,0 +1,90 @@
+SCAMMER OSINT - COMPLETE USERNAME & SOCIAL LINK ARCHIVE
+
+============================================================
+PRIMARY IDENTIFIERS (Confirmed)
+============================================================
+
+Discord ID: 1487561981706764360
+Discord Username(s): xrtarch, XRT-ARCH, Architect
+
+Reddit: u/Infamous_Middle_2537 (Display name: Architect)
+Reddit URL: https://www.reddit.com/user/Infamous_Middle_2537/
+
+GitHub (Primary): github.com/xrarch
+GitHub (Alternate): github.com/hyenasky
+
+X (Twitter - Deleted, but archived): @XRTARCH / @xrtarch
+
+============================================================
+SELF-DISCLOSED ALIASES (From Reddit comment)
+============================================================
+
+XRT_ARCH (confirmed scam alias)
+NEX_ARCHI (under investigation - possible alternate account)
+
+============================================================
+REAL NAME CLAIM (Unverified - likely false)
+============================================================
+
+"Will Stach" (posted on hyenasky GitHub profile - contradicts Latvia location)
+
+============================================================
+PROJECT NAMES (Used for credibility)
+============================================================
+
+MINTIA OS
+XR/station
+Architect AI
+Architect Canvas
+
+============================================================
+HARDWARE CLAIM (Used for technical credibility)
+============================================================
+
+RX9060XT 16gb GPU
+
+============================================================
+LOCATION CLAIMS (Contradictory)
+============================================================
+
+Claim A: Latvia (lived there whole life) - supported by timezone triangulation
+Claim B: Salt Lake City, Utah, USA (University of Utah area) - likely fabricated
+
+============================================================
+COMMUNITY / FORUM PRESENCE (Historical)
+============================================================
+
+Uzebox forums (retro gaming / emulation development)
+OSDev.org (operating system development)
+Betawiki (likely)
+
+============================================================
+ASSOCIATED HANDLES (Under Investigation)
+============================================================
+
+exemoz (GitHub collaborator - possible associate)
+Plainrock (mentioned negatively, context unclear)
+
+============================================================
+STATUS SUMMARY
+============================================================
+
+Platform          Handle                              Status
+--------          ------                              ------
+Discord           1487561981706764360                 ACTIVE (blacklisted)
+Reddit            Infamous_Middle_2537                ACTIVE (still offering commissions)
+GitHub            xrarch                              ACTIVE
+GitHub            hyenasky                            ACTIVE
+X/Twitter         @XRTARCH / @xrtarch                 DELETED (post-exposure)
+
+============================================================
+ARCHIVE NOTES
+============================================================
+
+All evidence (screenshots, receipts, commit logs) preserved in:
+github.com/WinterGate-IC/trust-safety-reports
+
+No private information. All data is OSINT-legal and publicly sourced.
+
+Issued by: WinterGate Intelligence Collective
+Date: June 1, 2026
