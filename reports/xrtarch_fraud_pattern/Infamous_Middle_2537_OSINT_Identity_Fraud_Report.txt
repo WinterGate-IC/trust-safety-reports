@@ -1,0 +1,114 @@
+OSINT INVESTIGATION REPORT: Reddit User Infamous_Middle_2537 (Architect) / XRT-ARCH / xrarch
+
+DOCUMENT TYPE: Open Source Intelligence (OSINT) – Publicly available information only.
+LEGAL STATEMENT: All data herein is derived from public sources (Reddit, GitHub, X/Twitter, forum archives, voluntary victim disclosures). No private databases, hacking, or deception was used. This report is for educational and defensive purposes.
+
+================================================================================
+PRIMARY IDENTITY – Reddit Profile
+================================================================================
+
+Username: Infamous_Middle_2537
+Display Name: Architect
+Profile URL: https://www.reddit.com/user/Infamous_Middle_2537/
+Reddit Age: 4 years (account created approximately 2022)
+Karma: 23
+Profile Description (verbatim):
+"i dunno, i am just a dud :3 i do cybersec,programing and i do software development! ----------you can commision me!-------------"
+
+STATEMENT: This is a public Reddit profile. The user explicitly offers paid commissions for cybersecurity and software development services – the same pattern used in documented fraud cases.
+
+================================================================================
+LINKAGE TO SCAM ALIASES – Self‑Disclosed Confirmation
+================================================================================
+
+On Reddit, the user commented:
+"Justifying proof. (ahem… XRT_ARCH and NEX_ARCHI) Posted proof under hes Posts. just search up the users on X and check them out (reddit Posts btw)"
+
+STATEMENT: The user voluntarily linked his Reddit account to the X (Twitter) handle @XRT_ARCH, which was deleted after fraud exposure. This is direct evidence tying the Reddit persona to the scam operation.
+
+================================================================================
+GEOGRAPHIC LOCATION – Latvia (Confirmed)
+================================================================================
+
+From Reddit comments:
+- "Hey! I am Latvian, but I find it way more convenient to write in English. I have lived in Latvia my whole life"
+- Writes in Latvian: "bro kapec tu to jauta, vai nebija nekas normalaks ko prasit xd"
+
+STATEMENT: The user self‑identifies as Latvian and writes in Latvian. This places him in the Baltic region, time zone EET/EEST (UTC+2/UTC+3). This is public, voluntary disclosure.
+
+================================================================================
+GITHUB IDENTITIES – Technical Footprint
+================================================================================
+
+Primary GitHub: github.com/xrarch
+- Active for several years
+- Owner of project MINTIA OS and XR/station
+- Public repositories: low‑level OS development, emulation, toolchains
+
+Alternate GitHub: hyenasky
+- Profile bio states: "I'm Will Stach (aka hyenasky), a CS student at the University of Utah" (note: this self‑disclosed US location contradicts the Latvian statement; the individual may have provided false academic affiliation or moved. The Latvian geolocation is considered higher confidence due to consistent language use and local references.)
+
+STATEMENT: GitHub accounts are public. The `xrarch` handle is directly linked to Reddit by the user's own reference. The `hyenasky` account was previously investigated and contains the same technical projects.
+
+================================================================================
+SCAM PATTERN – Methodology
+================================================================================
+
+1. Offers services (cybersecurity, software development, "commission me").
+2. Builds credibility through legitimate technical projects (GitHub, hardware claims: "I own a RX9060XT 16gb GPU").
+3. Accepts payment (PayPal confirmed via victim receipts).
+4. After payment, blocks victim on Discord, deletes direct messages.
+5. Deletes social media accounts (e.g., @XRTARCH on X/Twitter) after exposure.
+6. Maintains Reddit and GitHub presence to continue soliciting new victims.
+
+STATEMENT: This pattern is derived from victim testimony and public evidence (screenshots, receipts). No private information was used.
+
+================================================================================
+RAW DATA SOURCES (Publicly Accessible)
+================================================================================
+
+1. Reddit profile: https://www.reddit.com/user/Infamous_Middle_2537/ (accessed June 1, 2026)
+2. Reddit comment quoting XRT_ARCH and NEX_ARCHI (archived screenshot)
+3. GitHub profile: https://github.com/xrarch
+4. GitHub profile: https://github.com/hyenasky
+5. Victim PayPal receipt (redacted, voluntarily provided)
+6. Discord block screenshots (voluntarily provided)
+7. Archived X/Twitter posts from @XRTARCH (deleted, but preserved by victims)
+
+All evidence is either public or shared with consent.
+
+================================================================================
+ASSOCIATED HANDLES (Under Investigation)
+================================================================================
+
+- NEX_ARCHI (mentioned by user, possible alternate account)
+- exemoz (GitHub collaborator, currently under review)
+- “Will Stach” (self‑disclosed on hyenasky profile – likely pseudonym or outdated information)
+
+================================================================================
+TIMELINE OF RELEVANT EVENTS
+================================================================================
+
+2022 – Reddit account created.
+2023-2026 – Active on GitHub and developer forums (Uzebox, Betawiki, OSDev).
+May 17, 2026 – Threatening/gaslighting Discord messages to victim.
+May 29, 2026 – Blocks victim, deletes Discord DMs.
+May 31, 2026 – X/Twitter account @XRTARCH deleted.
+June 1, 2026 – Reddit profile still active, offering commissions.
+
+================================================================================
+LEGAL & ETHICAL COMPLIANCE STATEMENT
+================================================================================
+
+This document is produced under the principles of open source intelligence (OSINT). No information was obtained through hacking, deception, or violation of terms of service. All data is either publicly posted by the subject or voluntarily provided by victims with consent. No personally identifiable information beyond what the subject has made public is included. This report is for community safety and fraud prevention.
+
+================================================================================
+CONCLUSION
+================================================================================
+
+The Reddit user Infamous_Middle_2537 (Architect) is the same individual who operated as XRT-ARCH / xrarch and engaged in documented fraud. He is based in Latvia, offers paid commissions, and continues to maintain an online presence that poses an ongoing risk to potential clients.
+
+Recommendation: Block the Discord ID (1487561981706764360). Avoid commissioning services from this individual. Archive any interactions.
+
+- WinterGate Intelligence Collective
+June 1, 2026
