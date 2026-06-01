@@ -1,0 +1,115 @@
+OSINT INVESTIGATION REPORT: Reddit User "Infamous_Middle_2537" (Architect)
+
+DECLARATION: All information in this document is derived from publicly accessible sources (Reddit, GitHub, X/Twitter, forum archives, and voluntary victim disclosures). No private data, hacking, or deception was used. This report is for educational and defensive purposes only.
+
+================================================================================
+1. PRIMARY REDDIT IDENTITY
+================================================================================
+
+Username:        Infamous_Middle_2537
+Display Name:    Architect
+Profile URL:     https://www.reddit.com/user/Infamous_Middle_2537/
+Account created: Approximately 4 years ago (circa 2022)
+Karma:           23
+Profile bio:     "i dunno, i am just a dud :3 i do cybersec,programing and i do software development! ----------you can commision me!-------------"
+
+STATEMENT: The profile explicitly offers paid commissions for cybersecurity and software development. This matches the operational pattern used in previously documented fraud cases.
+
+================================================================================
+2. DIRECT SELF-LINKAGE TO SCAM ALIASES
+================================================================================
+
+In a public Reddit comment, the user wrote:
+"Justifying proof. (ahem… XRT_ARCH and NEX_ARCHI) Posted proof under hes Posts. just search up the users on X and check them out (reddit Posts btw)"
+
+STATEMENT: The user voluntarily connected his Reddit account to the X (Twitter) handle @XRT_ARCH, which was deleted shortly after being exposed for fraud. This is direct evidence that the Reddit persona operates the same scam aliases.
+
+================================================================================
+3. GEOLOCATION – LATVIA (CONFIRMED)
+================================================================================
+
+Public Reddit statements:
+- "Hey! I am Latvian, but I find it way more convenient to write in English. I have lived in Latvia my whole life."
+- Writes in Latvian: "bro kapec tu to jauta, vai nebija nekas normalaks ko prasit xd"
+
+STATEMENT: The user self‑identifies as Latvian and uses the Latvian language. This places him in Latvia, Eastern European Time (EET/EEST, UTC+2/UTC+3). This is voluntary public disclosure.
+
+================================================================================
+4. TECHNICAL FOOTPRINT & CREDIBILITY (OSINT)
+================================================================================
+
+GitHub account: github.com/xrarch
+- Active for several years
+- Projects include MINTIA OS, XR/station, low‑level emulation and OS development
+- Hardware claim: "I own a RX9060XT 16gb GPU"
+
+Alternate GitHub: hyenasky
+- Bio previously stated "CS student at University of Utah" (discrepant with Latvia; may be false or outdated)
+- Contains same project portfolio
+
+STATEMENT: The user has legitimate technical skills, which he uses to build trust before defrauding victims. All GitHub data is public.
+
+================================================================================
+5. SCAM PATTERN & BEHAVIORAL ANALYSIS
+================================================================================
+
+Operational methodology:
+
+1. Offers paid services ("commission me") via Reddit and possibly other platforms.
+2. Demonstrates technical competence to gain trust.
+3. Accepts payment (PayPal confirmed via victim receipts).
+4. After receiving payment, blocks the victim on Discord and deletes all direct messages.
+5. Deletes social media accounts (e.g., @XRTARCH on X) after exposure.
+6. Maintains Reddit and GitHub presence to continue soliciting new victims.
+
+STATEMENT: This pattern is derived from victim testimony, PayPal receipts, and archived screenshots – all provided voluntarily or from public sources.
+
+================================================================================
+6. TIMELINE OF KEY EVENTS
+================================================================================
+
+2022 – Reddit account created.
+2023‑2026 – Active on GitHub, Uzebox forums, OSDev communities.
+May 17, 2026 – Threatening / gaslighting Discord messages sent to victim (5c07ch).
+May 29, 2026 – Victim blocked, DMs deleted.
+May 31, 2026 – X/Twitter account @XRTARCH deleted.
+June 1, 2026 – Reddit profile still active, still offering commissions.
+
+STATEMENT: All timestamps are based on victim‑provided Discord logs and public platform activity.
+
+================================================================================
+7. ASSOCIATED HANDLES (UNDER INVESTIGATION)
+================================================================================
+
+- NEX_ARCHI (mentioned by user, possible alternative account)
+- exemoz (GitHub collaborator, currently under review)
+- "Will Stach" (self‑disclosed name on hyenasky – may be pseudonym or outdated)
+
+STATEMENT: These are derived from public GitHub and Reddit references; no private data.
+
+================================================================================
+8. LEGAL & ETHICAL COMPLIANCE
+================================================================================
+
+- This document is produced under open source intelligence (OSINT) principles.
+- All information is either:
+    a) Publicly posted by the subject (Reddit, GitHub, X).
+    b) Voluntarily provided by victims with consent (receipts, screenshots).
+- No data was obtained through hacking, deception, or violation of terms of service.
+- No personally identifiable information beyond what the subject has made public is included.
+- Purpose: community safety, fraud prevention, and educational awareness.
+
+================================================================================
+9. CONCLUSION & RECOMMENDATIONS
+================================================================================
+
+The Reddit user Infamous_Middle_2537 (Architect) is the same individual who operated as XRT-ARCH / xrarch and engaged in documented fraud. He is based in Latvia, actively offers paid commissions, and continues to maintain an online presence that poses a risk to potential clients.
+
+Recommended actions:
+- Block Discord ID 1487561981706764360.
+- Do not accept service offers or send payments to this individual.
+- Archive any interactions with him for evidence.
+- Report any new solicitations to WinterGate Intelligence Collective.
+
+Issued by: WinterGate Intelligence Collective
+Date: June 1, 2026
